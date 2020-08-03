@@ -1,2 +1,2 @@
 # ML-py-codes
-ML codes used while learning ML from a Udemy course
+This repo has Machine learning codes and other learning stuffs that i used and improvised for understanding the foundations of ML
